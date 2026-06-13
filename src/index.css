@@ -1,0 +1,56 @@
+@import "tailwindcss";
+
+/* Custom theme enhancements for premium dark-themed dashboard */
+:root {
+  color-scheme: dark;
+}
+
+body {
+  background-color: #030712; /* Slate-950 */
+  color: #f3f4f6; /* Slate-100 */
+  margin: 0;
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Custom glow animations */
+@keyframes pulse-glow {
+  0%, 100% {
+    box-shadow: 0 0 15px rgba(99, 102, 241, 0.2);
+  }
+  50% {
+    box-shadow: 0 0 25px rgba(139, 92, 246, 0.4);
+  }
+}
+
+.animate-glow {
+  animation: pulse-glow 3s infinite;
+}
+
+/* Glassmorphism utility card */
+.glass-panel {
+  background: rgba(15, 23, 42, 0.65);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+/* Scrollbar customization */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0b0f19;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #1e293b;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #334155;
+}

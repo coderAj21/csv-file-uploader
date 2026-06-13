@@ -1,0 +1,21 @@
+Name,Department,Age,Salary,Hire Date,Performance Score,Remote
+Alice Johnson,Engineering,28,95000,2022-03-15,4.8,true
+Bob Smith,Marketing,34,75000,2021-06-20,3.9,false
+Charlie Brown,Engineering,42,120000,2018-09-10,4.5,true
+Diana Prince,Product,31,105000,2023-01-10,4.9,true
+Evan Wright,Sales,25,55000,2024-02-01,3.5,false
+Fiona Gallagher,HR,29,68000,2022-11-05,4.2,false
+George Costanza,Sales,45,48000,2019-04-01,2.1,true
+Harriet Tubman,Operations,50,110000,2015-05-12,5.0,false
+Ian Malcolm,Engineering,38,115000,2020-07-22,4.6,true
+Julia Roberts,Marketing,27,72000,2023-08-14,4.1,false
+Kevin Bacon,Product,36,98000,2022-10-10,4.0,true
+Laura Croft,Operations,32,87000,2021-12-01,4.7,true
+Michael Scott,Sales,43,62000,2013-02-18,3.2,false
+Nancy Drew,Security,24,65000,2024-05-20,4.4,true
+Obi-Wan Kenobi,Training,57,135000,2010-06-01,4.9,true
+Peggy Carter,Operations,35,92000,2018-04-15,4.8,false
+Quentin Tarantino,Marketing,48,80000,2017-11-30,3.8,true
+Rachel Green,HR,26,60000,2023-05-01,3.6,false
+Steve Rogers,Security,102,70000,1945-08-01,5.0,false
+Tony Stark,Engineering,48,250000,2008-05-02,4.9,true
